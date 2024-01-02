@@ -1,0 +1,12 @@
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\bin\Debug\net7.0\SampleProject.Domain.deps.json
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\bin\Debug\net7.0\SampleProject.Domain.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\bin\Debug\net7.0\SampleProject.Domain.pdb
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\obj\Debug\net7.0\SampleProject.Domain.csproj.AssemblyReference.cache
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\obj\Debug\net7.0\SampleProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\obj\Debug\net7.0\SampleProject.Domain.AssemblyInfoInputs.cache
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\obj\Debug\net7.0\SampleProject.Domain.AssemblyInfo.cs
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\obj\Debug\net7.0\SampleProject.Domain.csproj.CoreCompileInputs.cache
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\obj\Debug\net7.0\SampleProject.Domain.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\obj\Debug\net7.0\refint\SampleProject.Domain.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\obj\Debug\net7.0\SampleProject.Domain.pdb
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Domain\obj\Debug\net7.0\ref\SampleProject.Domain.dll

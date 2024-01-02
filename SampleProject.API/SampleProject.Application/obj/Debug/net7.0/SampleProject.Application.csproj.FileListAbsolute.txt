@@ -1,0 +1,15 @@
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\bin\Debug\net7.0\SampleProject.Application.deps.json
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\bin\Debug\net7.0\SampleProject.Application.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\bin\Debug\net7.0\SampleProject.Application.pdb
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\bin\Debug\net7.0\SampleProject.Domain.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\bin\Debug\net7.0\SampleProject.Domain.pdb
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\SampleProject.Application.csproj.AssemblyReference.cache
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\SampleProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\SampleProject.Application.AssemblyInfoInputs.cache
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\SampleProject.Application.AssemblyInfo.cs
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\SampleProject.Application.csproj.CoreCompileInputs.cache
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\SampleProject.Application.csproj.CopyComplete
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\SampleProject.Application.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\refint\SampleProject.Application.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\SampleProject.Application.pdb
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Application\obj\Debug\net7.0\ref\SampleProject.Application.dll

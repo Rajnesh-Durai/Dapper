@@ -1,0 +1,17 @@
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\bin\Debug\net7.0\SampleProject.Infrastructure.deps.json
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\bin\Debug\net7.0\SampleProject.Infrastructure.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\bin\Debug\net7.0\SampleProject.Infrastructure.pdb
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\bin\Debug\net7.0\SampleProject.Application.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\bin\Debug\net7.0\SampleProject.Domain.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\bin\Debug\net7.0\SampleProject.Application.pdb
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\bin\Debug\net7.0\SampleProject.Domain.pdb
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\SampleProject.Infrastructure.csproj.AssemblyReference.cache
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\SampleProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\SampleProject.Infrastructure.AssemblyInfoInputs.cache
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\SampleProject.Infrastructure.AssemblyInfo.cs
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\SampleProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\SampleProject.Infrastructure.csproj.CopyComplete
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\SampleProject.Infrastructure.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\refint\SampleProject.Infrastructure.dll
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\SampleProject.Infrastructure.pdb
+D:\BackEnd-Tech\Dapper\SampleProject.API\SampleProject.Infrastructure\obj\Debug\net7.0\ref\SampleProject.Infrastructure.dll
